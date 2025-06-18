@@ -19,7 +19,7 @@ import static org.example.users.util.Regimen.*;
 
 public class CreateFilePDFPolicy {
 
-    private static final String local_path = "/Users/marioalberto/IdeaProjects/EtributeBack-1/";
+    private static final String local_path = "/Users/marioalberto/IdeaProjects/eTribute-02/";
     //private static final String server_path = "/home/ubuntu/endpoints/eTribute-all/";
     public static final Logger LOGGER = LogManager.getLogger(CreateFilePDFPolicy.class);
 
